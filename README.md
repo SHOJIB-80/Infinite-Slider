@@ -14,3 +14,6 @@ Contributions are welcome! Please fork the repository and submit a pull request 
 ## License
 This project is licensed under the MIT License.
 Feel free to adjust any sections as needed.
+
+## Preview
+The site is live at https://shojib-80.github.io/Infinite-Slider/
