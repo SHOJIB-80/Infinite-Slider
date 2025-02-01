@@ -11,6 +11,6 @@ git clone https://github.com/SHOJIB-80/Infinite-Slider.git
 ## Contributing
 Contributions are welcome! Please fork the repository and submit a pull request with your improvements.
 
-License
-
+## License
+This project is licensed under the MIT License.
 Feel free to adjust any sections as needed.
